@@ -1,4 +1,8 @@
-# WaveCon Telecom - Data Analysis [WaveCon Telecom Analysis](https://app.powerbi.com/view?r=eyJrIjoiYzVkZGEyYTMtOTk0NS00YTA5LTkwNzItNjE3ZmI2NTEyOTM4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+# WaveCon Telecom - Data Analysis 
+
+[PoweBi Report Link](https://app.powerbi.com/view?r=eyJrIjoiYzVkZGEyYTMtOTk0NS00YTA5LTkwNzItNjE3ZmI2NTEyOTM4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+[Presentation Video Link](https://www.youtube.com/watch?v=iHYC2UvcH4U)
 AtliQ Internship Task
 
 ## Impact of 5G Launch on Revenue
